@@ -7,4 +7,4 @@
 
 
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan560&theme=tokyonight&hide=HTML,CSS,JavaScript)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan560&theme=tokyonight&hide=HTML,CSS,JavaScript) -->
